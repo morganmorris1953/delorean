@@ -1,0 +1,30 @@
+[
+	{
+		"label": "Home",
+		"value": "home"
+	},
+	{
+		"label": "Donate",
+		"value": "donate"
+	},
+	{
+		"label": "Twitter",
+		"value": "twitter"
+	},
+	{
+		"label": "Facebook",
+		"value": "facebook"
+	},
+	{
+		"label": "Instagram",
+		"value": "instagram"
+	},
+	{
+		"label": "Join Us",
+		"value": "join"
+	},
+	{
+		"label": "About",
+		"value": "about"
+	}
+]
